@@ -2,6 +2,7 @@
 
 ALE Linter for CDS
 Fork of the linter created by https://github.com/qmacro.
+
 Makes use of npm package https://www.npmjs.com/package/cds-lsp-exec as executable for cds-lsp
 
 1. copy ftdetect/cds.vim in your ~/.vim/ftdetect
